@@ -297,3 +297,11 @@ body {
   background: none;
   padding: 0;
 }
+
+/* Footer */
+.footer {
+  background: var(--card-background);
+  padding: 2rem;
+  text-align: center;
+  margin-top: auto;
+}
